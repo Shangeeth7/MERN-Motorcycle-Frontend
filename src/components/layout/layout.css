@@ -1,0 +1,9 @@
+.active-menu-item {
+  color: white;
+  background-color: lightblue;
+  /* padding: 5px; */
+}
+
+.ri-close-fill {
+  font-size: 30px;
+}
